@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.titulo {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.menu {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #0645AD;
+  font-weight: bold;
+}
+
+.separator {
+  color: black;
+  font-size: 18px;
+}
+
+
+
+
